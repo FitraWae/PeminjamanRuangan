@@ -29,4 +29,5 @@ MAIN JOB:
   - Bintani Arina Sbaiqo (434251041)
   - Ezra Debora Agnesia Tambunan (434251069)
 
-
+Laporan:
+https://docs.google.com/document/d/1-26AuW_0-ZqjbWu-f4wKuocx-tbG9-MgE4K4-nyV1y8/edit?usp=sharing
